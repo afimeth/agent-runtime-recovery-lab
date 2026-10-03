@@ -1,0 +1,12 @@
+{
+  "success": {
+    "intent_id": "f266e1d68293ea535dd86dc35c5b7d7be466e6f13e82531151203474ccf5e1c9",
+    "state": "ACKNOWLEDGED",
+    "result": {
+      "uppercase": "BOUNDED AGENT EXECUTION"
+    },
+    "world_verified": false
+  },
+  "duplicate_blocked": "ACKNOWLEDGED",
+  "restart_blocked": "DISPATCHED"
+}

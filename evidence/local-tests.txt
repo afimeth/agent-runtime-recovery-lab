@@ -1,0 +1,15 @@
+test_bad_result_holds (test_app.Tests.test_bad_result_holds) ... ok
+test_concurrent_connections_enter_adapter_once (test_app.Tests.test_concurrent_connections_enter_adapter_once) ... ok
+test_dispatch_marker_visible_before_adapter (test_app.Tests.test_dispatch_marker_visible_before_adapter) ... ok
+test_effect_then_failure_holds (test_app.Tests.test_effect_then_failure_holds) ... ok
+test_independent_intents (test_app.Tests.test_independent_intents) ... ok
+test_invalid_task_never_called (test_app.Tests.test_invalid_task_never_called) ... ok
+test_pre_dispatch_retry (test_app.Tests.test_pre_dispatch_retry) ... ok
+test_restart_uncertainty (test_app.Tests.test_restart_uncertainty) ... ok
+test_second_connection_cannot_replay (test_app.Tests.test_second_connection_cannot_replay) ... ok
+test_success_and_duplicate (test_app.Tests.test_success_and_duplicate) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.393s
+
+OK
